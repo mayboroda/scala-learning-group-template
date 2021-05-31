@@ -1,0 +1,15 @@
+title: Scala для программустов
+description: Изучение языка Scala для оптыных программистов. Все что ты должен знать, если решился попробовать scala в проде. 
+
+template:
+  name: scala-learning-group
+  repo: scala-learning-group-template
+
+before:
+  - type: createIssue
+    title: Introduction
+    body: src/01-introduction.md
+
+steps:
+  - title: Scala Syntax Intro
+    desription: Some text
