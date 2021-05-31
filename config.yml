@@ -13,3 +13,7 @@ before:
 steps:
   - title: Scala Syntax Intro
     desription: Some text
+
+tags:
+  - scala
+  - functional programming
